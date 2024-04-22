@@ -1,1 +1,3 @@
-# Tailwind-CSS-Full-Course-2023-Build-and-Deploy-a-Nike-Website
+# React + Vite
+
+My first issue with https://www.youtube.com/watch?v=tS7upsfuxmo
